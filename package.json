@@ -1,0 +1,23 @@
+{
+  "name": "gcf-compute-instance-start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "googleapis": "^92.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckxng/gcf-compute-instance-start.git"
+  },
+  "author": "Cameron King <cameronking.me>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ckxng/gcf-compute-instance-start/issues"
+  },
+  "homepage": "https://github.com/ckxng/gcf-compute-instance-start#readme"
+}
